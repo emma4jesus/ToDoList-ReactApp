@@ -1,12 +1,18 @@
 # React To Do List App
 
-- React to do app that allows you to enter a to do list item.
+- React to do app that allows you to enter multiple to do list items.
 
-- You are able to set the Priorty level of a to-do-list item.
+- You are able to set the priority level of the item you wish to add.
 
-- You are able see a list of all my to-do-list items after they are added, with colors that identify their priorty level.
+- You are able see a list of all my to-do-list items after they are added, with colors that identify their priority level.
 
 - You are able to edit and delete to-do-list items.
+
+
+## Links
+
+- Deploy Heroku Link:https://to-do-list--react--app.herokuapp.com
+- GitHub Repo:https://github.com/emma4jesus/ToDoList-ReactApp
 
 # enter a to do + set priority
 
@@ -24,10 +30,7 @@
 
 ![edit and update](update.png)
 
-### Links
 
-- Deploy Heroku Link:https://to-do-list--react--app.herokuapp.com
-- GitHub Repo:https://github.com/emma4jesus/ToDoList-ReactApp
 
 ### License
 
