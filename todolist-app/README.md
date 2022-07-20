@@ -1,4 +1,4 @@
-# React To Do List
+# React To Do List App
 
 - React to do app that allows you to enter a to do list item.
 
@@ -26,8 +26,8 @@
 
 ### Links
 
-- Deploy Heroku Link:
-- GitHub Repo: https://github.com/emma4jesus/react-to-do-list
+- Deploy Heroku Link:https://to-do-list--react--app.herokuapp.com
+- GitHub Repo:https://github.com/emma4jesus/ToDoList-ReactApp
 
 ### License
 
